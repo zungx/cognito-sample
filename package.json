@@ -1,0 +1,15 @@
+{
+  "name": "cognito",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^5.2.12",
+    "aws-sdk": "^2.1246.0",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
